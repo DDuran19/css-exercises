@@ -15,6 +15,9 @@ This will help you further practice adding classes and using class selectors, so
 
 
 ### Self Check
-- Does each element have a unique class name?
+- Does each element have a unique class name? 
+ > Yes, I added unique classes this time
 - Did you use the grouping selector for styles that both elements share?
+ > No, I didn't, I just created a new class called "btns" and assigned it to both
 - Did you make separate rules for the styles unique to each element?
+ > Yes, I did
