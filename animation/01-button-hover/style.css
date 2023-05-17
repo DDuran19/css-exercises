@@ -6,8 +6,8 @@
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
+  
 }
-
 button {
   border-radius: 8px;
   border: none;
@@ -16,4 +16,12 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
+}
+
+button{
+transition: transform .5s ease-in-out;
+}
+
+button:hover{
+transform:scale(1.5)
 }
